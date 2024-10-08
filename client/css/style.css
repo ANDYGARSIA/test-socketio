@@ -1,0 +1,20 @@
+.page {
+    display: none;
+}
+
+.page.current {
+    display: block;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: block;
+}
+
+footer .status {
+    padding: 0.5em 1em;
+    margin: 1em;
+    display: block;
+}

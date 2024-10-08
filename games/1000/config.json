@@ -1,0 +1,9 @@
+{
+    "title": "1000",
+    "css": [
+        "css/style.css"
+    ],
+    "js": [
+        "js/client.js"
+    ]
+}
